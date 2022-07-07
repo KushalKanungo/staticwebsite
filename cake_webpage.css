@@ -1,0 +1,94 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.food-image{
+    background-image: url(./food\ bg.jpg);
+    height: 100vh;
+}
+
+.card-food{
+    background-color: #f6c56e;
+    width: 25%;
+    margin-left: 70%;
+    margin-top: 20%;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+
+.heading-food{
+    font-family: serif;
+    padding-left: 6%;
+    padding-top: 3%;
+    font-weight: bolder;
+    
+}
+
+.para-food{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bolder;
+    padding-left: 6%;
+}
+
+.btn-food{
+    font-weight: bolder;
+    background-color: azure;
+    width: 30%;
+    margin-bottom: 4%;
+    margin-left: 6%;
+    border-radius: 10px;
+}
+
+.image{
+    background-image: url(./cake.jpg);
+    height: 47vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.heading{
+    font-family: cursive;
+    font-weight: bolder;
+    text-align: center;
+    text-decoration: darkmagenta;
+    background-color: aliceblue;
+    width: 43%;
+    margin-left: 29%;
+}
+
+.bottom-section{
+    background-color:  #e6f6ff;
+    height: 80vh;
+    background-size: cover;
+
+}
+.food-item{
+    text-align: center;
+    background-color: white;
+    border-radius: 9px;
+    padding: 50px;
+    margin: 3%;
+}
+
+.items-img{
+    height: 180px;
+    width: 180px;
+    justify-content: space-around;
+}
+
+.item-name{
+    font-family: "Roboto";
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.item-price{
+    font-family: "Roboto";
+    font-size: 22px;
+    font-weight: 500;
+}
+
+.btn{
+    border-radius: 5px;
+    margin-left: 50%;
+}
